@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "nostr-tools": "^2.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.0",
+    "typescript": "^5.5.4"
+  },
+  "scripts": {
+    "tinker": "tsc && node dist/main.js"
+  }
+}
